@@ -29,7 +29,23 @@ Designed in KiCad with integrated Real-Time Clock (RTC) scheduling, high-current
 - **PCB Stackup**: 2-layer FR4 (1.6 mm core, 1 oz copper).
 - **Renders & Manufacturing**:
   - 3D photorealistic board renders: `Front.png` and `Back.png`.
-  - Manufacturing schematic: `Schematic.pdf`.
+  - Manufacturing schematic: `Schematic.pdf` / `Schematic.png`.
+
+---
+
+## Hardware Renders & Schematic
+
+### 3D Photorealistic PCB Views
+
+| Top View | Bottom View |
+| :---: | :---: |
+| ![Solar Panel Wash Controller Front](Front.png) | ![Solar Panel Wash Controller Back](Back.png) |
+
+### Electrical Schematic
+
+<p align="center">
+  <img src="Schematic.png" alt="Solar Panel Wash Controller Schematic" width="800">
+</p>
 
 ---
 
